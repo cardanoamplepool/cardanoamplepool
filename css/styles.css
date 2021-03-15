@@ -4297,6 +4297,7 @@ input[type="button"].btn-block {
 .navbar-brand:hover,
 .navbar-brand:focus {
   text-decoration: none;
+  color: #1abc9c !important;
 }
 
 .navbar-nav {
@@ -10660,3 +10661,13 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
+
+.cardano-logo {
+  width: 2em;
+  margin-right: 0.5em;
+}
+
+/* #mainNav .container .navbar-brand .adapools:hover,
+#mainNav .container .navbar-brand .adapools:focus {
+  color: #1abc9c;
+} */
